@@ -74,4 +74,7 @@ Edit `TARGET_COLLEGES` and `TARGET_BRANCHES` in the script to cover different in
 ## Graphs
 <img width="887" height="537" alt="OP1" src="https://github.com/user-attachments/assets/83aa8b2e-c70e-44da-ba81-26f1bab4303d" />
 <img width="1586" height="513" alt="op2" src="https://github.com/user-attachments/assets/270a5fa3-5834-4fa2-8dca-e489eccedcac" />
+<img width="887" height="486" alt="op3" src="https://github.com/user-attachments/assets/e9d9df9e-d81a-47ec-add9-3a886bab3c87" />
+<img width="987" height="536" alt="op4" src="https://github.com/user-attachments/assets/bab3d9c8-532b-48c0-a2c9-71bff700ec8e" />
+
 
