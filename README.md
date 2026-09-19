@@ -6,6 +6,7 @@ Analysis of engineering admission cutoffs in Maharashtra (2022–2025), extracte
 
 ---
 
+
 ## Question this answers
 
 Computer Science and allied branches are widely believed to be harder to get into than ever. Does the official cutoff data support that — and is the effect specific to Computer branches, or are all engineering branches tightening together?
